@@ -1,0 +1,66 @@
+h1 {
+    text-align:center;
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+
+.progress {
+    margin-top: 10px;
+}
+
+
+
+.container {
+    border: none;
+    
+    padding-top: 125px;
+    padding-left: 100px;
+}
+
+.skill {
+    width:550px;
+    margin-left:500px;
+    margin-top: 250px;
+    text-align:center;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.progr{
+    margin: 25px;
+    width: 500px;
+    box-shadow: 1px 1px 2px 2px lightgrey;
+    border: transparent 1px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+
+footer {
+    background-color: #212529;
+    height: 150px;
+}
+
+.media{
+    background-color: #212529;
+    padding-bottom: 10px;
+    color:white;
+}
+
+.footer-item{
+    margin-left: 350px;
+}
+
+.img{
+    padding-left: 100px;
+}
+
+.col-md-6 p {
+    text-align: center;
+}
